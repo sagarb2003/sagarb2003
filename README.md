@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarb2003&label=Profile%20views&color=0e75b6&style=flat" alt="sagarb2003" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Living in a world of brackets {} and semicolons  ;
 
 - 📫 How to reach me **sagarsinghbisht248@gmail.com**
 
